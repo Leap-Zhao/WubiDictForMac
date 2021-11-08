@@ -1,6 +1,8 @@
 #coding=utf-8
 
 import requests
+# 参考: https://www.cnblogs.com/xe2011/p/11583645.html
+# 参考: https://www.cnblogs.com/xe2011/p/4315879.html
 
 url = "https://www.52wubi.com/wbbmcx/tp/我.gif"
 #
